@@ -381,4 +381,4 @@ MIT 호환 시분할 시스템(CTSS)과 다중화된 정보 및 컴퓨팅 서비
 - Microsoft, Google, IBM, Amazon 등 주요 기업이 오픈소스 프로젝트에 투자.
   
 5. 커뮤니티와 협업 강화
-- GitHub, GitLab 등 플랫폼을 통해 글로벌 협업과 오픈소스 기여가 확대.
+- GitHub, GitLab 등 플랫폼을 통해 글로벌 협업과 오픈소스 기여가 확대.asdfdasfadsfafd
